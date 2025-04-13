@@ -11,4 +11,4 @@ Welcome to my GitHub profile! If you’re here to judge my code, please do it ki
   Frameworks: React, Flask, FastAPI (and the occasional magic incantation to make things work)
 
 📫 Connect With Me:
-  Email: your.email@example.com (or send a carrier pigeon, but results may vary)
+  Email: 06abdullahshaik@gmail.com (or send a carrier pigeon, but results may vary)
